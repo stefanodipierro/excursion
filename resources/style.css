@@ -15,7 +15,30 @@ header h1 {
   padding: 20px;
 }
 
-header a {
+a {
   color: aquamarine;
   text-decoration: underline;
+}
+
+.video {
+  padding: 20px;
+}
+
+.middle {
+  padding-bottom: 30px;
+}
+.middle h1 {
+  padding: 30px;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.middle h3 {
+  color: gray;
+  font-size: 21px;
+  padding-bottom: 30px;
+}
+
+.comingsoon h1 {
+  padding: 20px;
 }
